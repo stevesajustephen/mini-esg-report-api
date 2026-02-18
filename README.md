@@ -1,9 +1,16 @@
 AI Usage:
 
-Fix Bar chart issue;
-resolve mock ai dependency
+To fix the Bar Chart issue;
+To Resolve the AiModule Dependency Conflict
 
-to run the backend:
+# development
 
-npm install
+npm run start
+
+# watch mode
+
 npm run start:dev
+
+# production mode
+
+npm run start:prod
