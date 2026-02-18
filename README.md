@@ -1,9 +1,9 @@
 AI Usage:
 
-To fix the Bar Chart issue;
+To fix the Bar Chart Issue;
 To Resolve the AiModule Dependency Conflict
 
-# To run the api
+# To run the Application
 
 npm install
 
