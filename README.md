@@ -1,8 +1,12 @@
 # To run the Application
 
-npm install
+1. Create a Postgres database - report
 
-npm run start
+2. Update the connection details in app.module.ts - host, port, username and password
+
+3. Run command - npm install
+
+4. Run command - npm run start:dev
 
 # AI Usage
 
